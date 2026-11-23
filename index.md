@@ -62,5 +62,5 @@ My primary career objective is to secure a Governance, Risk, and Compliance (GRC
 ## 7. Contact Information
 
 * **Email:** [dgshreyashree@gmail.com]
-* **GitHub:** [://github.com](https://://github.com)
+* **GitHub:** [github.com/ShreyashreeD](https://://github.com)
 * **LinkedIn:** [linkedin.com/in/shreyashree-dasgupta-7026b01b4](https://www.linkedin.com/in/shreyashree-dasgupta-7026b01b4/)
