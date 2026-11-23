@@ -34,11 +34,11 @@ The scan completed in 46.81 seconds, identifying 995 filtered ports and **5 open
 
 ### Supporting Evidence
 * **Figure 1:** Initial scan blocked by ICMP firewall filtering, resolved using `-Pn`:
-  ![Nmap Ping Blocked](evidence/ping-blocked.png)
+  ![Nmap Ping Blocked](evidence/Host%20seems%20down_1.png)
 * **Figure 2:** Service and script enumeration results (Ports 21, 53, 80, 135, 3389):
-  ![Nmap Scan Results Part 1](evidence/nmap-results-1.png)
+  ![Nmap Scan Results Part 1](evidence/nmap_results_1.png)
 * **Figure 3:** RDP NTLM info and OS fingerprinting output:
-  ![Nmap Scan Results Part 2](evidence/nmap-results-2.png)
+  ![Nmap Scan Results Part 2](evidence/nmap_results_2.png)
 
 ---
 
