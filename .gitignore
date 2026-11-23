@@ -1,0 +1,25 @@
+# Secrets, keys, and credentials
+.env
+*.pem
+*.key
+*.crt
+*secret*
+*password*
+*credentials*
+
+# Operating system & editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+
+# Virtual machine images & large binaries
+*.iso
+*.ova
+*.vmdk
+*.vdi
+*.qcow2
+*.zip
+*.tar.gz
+*.7z
